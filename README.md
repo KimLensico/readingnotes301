@@ -23,4 +23,4 @@ The following content contains my notes for the Codefellows 301 course! Feel fre
 
 ---
 
-**related links:** [102 Notes](https://kimlensico.github.io/reading-notes/) | [201 Notes](https://kimlensico.github.io/readingnotes-201/)
+**related links:** [102 Notes](https://kimlensico.github.io/reading-notes/), [201 Notes](https://kimlensico.github.io/readingnotes-201/)
