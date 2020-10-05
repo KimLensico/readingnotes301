@@ -5,7 +5,7 @@ The following content contains my notes for the Codefellows 301 course! Feel fre
 ### Table of Contents
 > **NOTE:** *The names of the following links may be subject to change until the end of the course.*
 
-- [one](link)
+- [smacss](smacss.md)
 - [two](link)
 - [three](link)
 - [four](link)
