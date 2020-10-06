@@ -2,6 +2,7 @@
 
 ## JQuery:
 > a javascript file that you include in your web pages. It lets you find elements using CSS-style selectors and then do something with the elements using JQuery methods
+
 - ```jQuery()``` lets you find one or more elements on the page
   - creates an object called **jQuery** 
     - holds references to those elements
