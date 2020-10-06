@@ -6,7 +6,7 @@ The following content contains my notes for the Codefellows 301 course! Feel fre
 > **NOTE:** *The names of the following links may be subject to change until the end of the course.*
 
 - [smacss](smacss.md)
-- [two](link)
+- [pair programming](pairprogramming.md)
 - [three](link)
 - [four](link)
 - [five](link)
