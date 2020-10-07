@@ -62,9 +62,9 @@
     - when two people focus on the same code base, it is easier to catch mistakes in the making. 
     - research indicates that pair programing takes slightly longer, but produces higher-quality code that doesn’t require later effort in troubleshooting and debugging 
       - [in the long-run] it’s more efficient than two people working on separate features. 
-    - when coming up with ideas and discussing solutions out loud, two programmers may come to a solution faster than one programmer on their own. 
+      - when coming up with ideas and discussing solutions out loud, two programmers may come to a solution faster than one programmer on their own. 
       - when the pair is stuck, both programmers can research the problem and reach a solution faster
-    - pairing enhances technical skills and team communication
+      - pairing enhances technical skills and team communication
         - also helped with the **enjoyability** of coding in the workplace.
 
 2. **Engaged Collaboration**
@@ -102,3 +102,4 @@
 6. **Work Environment Readiness**
   - Many companies that utilize pair programing expect to train fresh hires from CS-degree programs on how they operate to actually deliver a product
   - Code Fellows graduates who are already familiar with how pairing works can hit the ground running at a new job
+
