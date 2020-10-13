@@ -9,7 +9,7 @@ The following content contains my notes for the Codefellows 301 course! Feel fre
 - [pair programming](pairprogramming.md)
 - [mustache + flexbox](mustache-flexbox.md)
 - [css grid](cssgrid.md)
-- [five](link)
+- [rest](rest.md)
 - [six](link)
 - [seven](link)
 - [eight](link)
