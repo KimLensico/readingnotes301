@@ -10,7 +10,7 @@ The following content contains my notes for the Codefellows 301 course! Feel fre
 - [mustache + flexbox](mustache-flexbox.md)
 - [css grid](cssgrid.md)
 - [rest](rest.md)
-- [six](link)
+- [functional programming](fp.md)
 - [seven](link)
 - [eight](link)
 - [nine](link)
