@@ -11,7 +11,7 @@ The following content contains my notes for the Codefellows 301 course! Feel fre
 - [css grid](cssgrid.md)
 - [rest](rest.md)
 - [functional programming](fp.md)
-- [seven](link)
+- [call stack](callstack.md)
 - [eight](link)
 - [nine](link)
 - [ten](link)
