@@ -36,3 +36,4 @@ At the most basic level, a call stack is a data structure that uses the Last In,
 #### What causes a stack overflow?
 - A stack overflow occurs when there is a recursive function (a function that calls itself) without an exit point 
 - The browser (hosting environment) has a maximum stack call that it can accommodate before throwing a stack error
+
