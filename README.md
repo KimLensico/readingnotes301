@@ -14,10 +14,10 @@ The following content contains my notes for the Codefellows 301 course! Feel fre
 - [call stack](callstack.md)
 - [ejs](ejs.md)
 - [node.js](nodejs.md) (**UNFINISHED**)
-- [ten](link)
-- [eleven](link)
+- [ejs partials](ejspartials.md)
+- [sending form data](sendformdata.md)
 - [twelve](link)
-- [thirteen](link)
+- [diversity + inclusion](diversincl.md)
 - [fourteen](link)
 - [fifteen](link)
 
